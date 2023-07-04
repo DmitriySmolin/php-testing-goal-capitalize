@@ -1,0 +1,13 @@
+{
+    "name": "runner/php-web-server",
+    "description": "TEST",
+    "license": "TEST",
+    "autoload": {
+      "files": ["src/StringUtils.php"]
+    },
+    "authors": [
+        {
+            "name": "dmitry"
+        }
+    ]
+}
