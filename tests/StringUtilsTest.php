@@ -10,4 +10,3 @@ if (App\StringUtils\capitalize('') !== '') {
 }
 
 echo 'Все тесты пройдены!';
-?>

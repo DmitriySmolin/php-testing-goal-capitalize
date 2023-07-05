@@ -9,5 +9,8 @@
         {
             "name": "dmitry"
         }
-    ]
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
 }
